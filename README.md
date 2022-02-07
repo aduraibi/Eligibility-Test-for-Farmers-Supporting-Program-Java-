@@ -1,2 +1,2 @@
-# Eligibility-Test-for-Farmer-s-Supporting-Program
+# Eligibility-Test-for-Farmers-Supporting-Program
 One of the main programs within Saudi Arabia is the agriculture supporting program. This program is targeting to support the farmers. Each farmer is eligible to have the support if his data meet the following requirements: The former's salary should be less than ten thousand Saudi Riyals, the former's age should be not less than 20 years old and not more than 70 years old, the former's marital status should be married and has more than two children, the former has a citizen's account, the former has no other income, and his balance in the banks' accounts does not exceed one hundred thousand Saudi Riyals, and the farmer does not have more than 50 thousand sheep.
